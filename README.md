@@ -17,6 +17,9 @@ The objective of this project is to analyze the bank loan data to provide insigh
 
 ![Bank Loan Summary](https://github.com/pratik2124/PowerBI_Bank_Loan_Data_Analysis/assets/156676954/fe18123e-d54e-4ded-aca9-db9dd141deb1)
 
+![Bank Loan Overview](https://github.com/pratik2124/PowerBI_Bank_Loan_Data_Analysis/assets/156676954/eadd00d2-150a-4c6f-b018-0928bc47fe5e)
+
+![Bank Loan Details](https://github.com/pratik2124/PowerBI_Bank_Loan_Data_Analysis/assets/156676954/265a4a5a-8052-4d68-b3b9-3dbe625dd95a)
 
  
 
