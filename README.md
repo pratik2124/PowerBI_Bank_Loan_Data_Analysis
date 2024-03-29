@@ -13,6 +13,10 @@ The objective of this project is to analyze the bank loan data to provide insigh
 + Debt consolidation stands out as the primary loan purpose, indicating a prevalent need among borrowers to manage and consolidate existing debts.
 + A significant proportion (86.2%) of loan applications are categorized as good loans, with only a small fraction (13.8%) classified as bad loans, highlighting the overall health of the lending portfolio.
 
+## Bank Loan Summary Dashboard
+
+
+
  
 
 
