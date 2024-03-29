@@ -26,6 +26,10 @@ The objective of this project is to analyze the bank loan data to provide insigh
 + Total Loan Applications by Purpose
 + Total Loan Applications by Home Ownership
 
+## Insights Gained through Analysis
+
++ 
+
 
 
 
