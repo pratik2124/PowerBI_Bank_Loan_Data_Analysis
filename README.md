@@ -15,6 +15,7 @@ The objective of this project is to analyze the bank loan data to provide insigh
 
 ## Dashboard
 
+![Bank Loan Summary](https://github.com/pratik2124/PowerBI_Bank_Loan_Data_Analysis/assets/156676954/fe18123e-d54e-4ded-aca9-db9dd141deb1)
 
 
  
